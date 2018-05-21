@@ -3,4 +3,6 @@
 *.a
 ProcessData
 *.txt
+*.phd
+*.swp
 
